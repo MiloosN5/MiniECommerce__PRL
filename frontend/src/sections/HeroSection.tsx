@@ -12,6 +12,7 @@ import { FaArrowRightLong } from "react-icons/fa6";
 
 // components
 import HeroImage from "../components/images/decorations/HeroImage";
+//import HeroImage from "../components/images_full/decorations/HeroImage";
 import Section from "../components/Section";
 import Header from "../components/Header";
 import Anchor from "../components/Anchor";

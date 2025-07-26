@@ -9,12 +9,15 @@ import { useNavigate } from "react-router-dom";
 
 // components
 import Logo from "../components/images/LogoIcon";
+//import Logo from "../components/images_full/LogoIcon";
 import Header from "../components/Header";
 import ColorPicker from "../components/ColorPicker";
 import Nav from "../components/Nav";
 import List from "../components/List";
 import { UnknownIcon } from "../components/images/UnknownIcon";
+//import { UnknownIcon } from "../components/images_full/UnknownIcon";
 import LogoutIcon from "../components/images/navbar/LogoutIcon";
+//import LogoutIcon from "../components/images_full/navbar/LogoutIcon";
 
 // services
 import { getComplementaryHex } from "../services/colorService";
@@ -23,7 +26,8 @@ import Button from "../components/Button";
 
 // data (images & routes)
 import { routes } from "../data/routes";
-import { routeImages } from "../data/images";
+// import { routeImages } from "../data/images";
+import { routeImages } from "../data/images_full";
 
 const RootHeader = () => {
   const dispatch = useAppDispatch();

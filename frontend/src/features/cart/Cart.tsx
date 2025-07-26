@@ -22,6 +22,7 @@ import List from "../../components/List";
 
 // images
 import { productImages } from "../../data/images";
+//import { productImages } from "../../data/images_full";
 
 // services
 import { getComplementaryHex } from "../../services/colorService";

@@ -4,6 +4,7 @@ import { useAppSelector } from "../hooks/reduxHooks";
 
 // components
 import AuthenticationImage from "../components/images/decorations/AuthenticationImage";
+//import AuthenticationImage from "../components/images_full/decorations/AuthenticationImage";
 import LoginForm from "../features/auth/LoginForm";
 import Section from "../components/Section";
 import Header from "../components/Header";

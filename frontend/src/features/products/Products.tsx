@@ -10,6 +10,7 @@ import { Product } from "./productsSlice";
 
 // components
 import { UnknownIcon } from "../../components/images/UnknownIcon";
+//import { UnknownIcon } from "../../components/images_full/UnknownIcon";
 import List from "../../components/List";
 import Button from "../../components/Button";
 
@@ -19,6 +20,7 @@ import { useHeightObserver } from "../../hooks/useHeightObserver";
 
 // images
 import { productImages } from "../../data/images";
+//import { productImages } from "../../data/images_full";
 
 const Products = () => {
   const dispatch = useAppDispatch();

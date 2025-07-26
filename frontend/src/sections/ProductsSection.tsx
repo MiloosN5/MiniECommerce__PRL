@@ -10,6 +10,7 @@ import Section from "../components/Section";
 import Header from "../components/Header";
 import Products from "../features/products/Products";
 import ProductsImage from "../components/images/decorations/ProductsImage";
+//import ProductsImage from "../components/images_full/decorations/ProductsImage";
 import Anchor from "../components/Anchor";
 
 // services

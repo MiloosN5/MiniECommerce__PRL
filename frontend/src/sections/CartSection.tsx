@@ -8,6 +8,7 @@ import { FaArrowRightLong } from "react-icons/fa6";
 
 // components
 import CartImage from "../components/images/decorations/CartImage";
+//import CartImage from "../components/images_full/decorations/CartImage";
 import Section from "../components/Section";
 import Header from "../components/Header";
 import Anchor from "../components/Anchor";

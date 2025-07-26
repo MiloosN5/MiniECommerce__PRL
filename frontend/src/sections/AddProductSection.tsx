@@ -6,6 +6,7 @@ import { useAppSelector } from "../hooks/reduxHooks";
 import Section from "../components/Section";
 import Header from "../components/Header";
 import AddProductImage from "../components/images/decorations/AddProductImage";
+//import AddProductImage from "../components/images_full/decorations/AddProductImage";
 import AddProductForm from "../features/products/AddProductForm";
 
 // services
